@@ -18,7 +18,7 @@ from PIL import Image, ImageDraw
 import numpy as np
 import pygame.mixer
 
-GIF_PATH   = '/home/titan/Downloads/thronglet.gif'
+GIF_PATH   = '/home/titan/Pictures/thronglet.gif'
 SCALE      = 0.22
 BG         = (86, 86, 86)
 TOL        = 28
