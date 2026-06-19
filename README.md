@@ -1,10 +1,18 @@
-# 🟡 desktop-plaything-thronglets
+# desktop-plaything-thronglets
 
-> *"It just wants to be loved."*
+<p align="center">
+  <img src="assets/banner.png" alt="Thronglets — Your Desktop Buddy. They're Watching." />
+</p>
+
+![Python](https://img.shields.io/badge/python-3.10%2B-yellow) ![Platform](https://img.shields.io/badge/platform-Linux%20%28X11%2FXWayland%29-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 A desktop creature inspired by the Thronglets from **Black Mirror: Playthings** (S7). It lives on your screen, wanders in 2D, makes noise, tracks time of day, and — if you treat it well — reproduces.
 
-![Python](https://img.shields.io/badge/python-3.10%2B-yellow) ![Platform](https://img.shields.io/badge/platform-Linux%20%28X11%2FXWayland%29-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+> *"It just wants to be loved."*
+
+<p align="center">
+  <img src="assets/screenshot-desktop.png" width="800" alt="Thronglets wandering a rainy Tokyo street" />
+</p>
 
 ---
 
