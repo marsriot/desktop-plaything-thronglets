@@ -35,6 +35,18 @@ A faint pink glow appears when reproduction is near. Fill your whole screen if y
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=marsriot%2Fdesktop-plaything-thronglets&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=marsriot/desktop-plaything-thronglets&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=marsriot/desktop-plaything-thronglets&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=marsriot/desktop-plaything-thronglets&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
+
 ## Controls
 
 | Input | Effect |
